@@ -1,9 +1,7 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What is you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'Zego',
+    description: `I worked at Zego for 2.5 years, this place though me more than I ever though I would learn in a short period of time and I believe really helped me to get to the next level in my skills`,
     imgSrc: '/static/images/google.png',
     href: 'https://www.google.com',
   },
